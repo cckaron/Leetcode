@@ -1,4 +1,4 @@
-class Solution {
+class reserve_interger { //coding time: 2hr
     public static void main(String[] args) {
         System.out.println(reverse(-2147483648));
     }
