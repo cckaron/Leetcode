@@ -1,4 +1,8 @@
-class Palindrome_number { //coding time:1.5 hr
+package src;
+
+//#9 easy
+//coding time: 90min
+class palindrome_number { 
     public static void main(String[] args) {
         System.out.println(leetcodeAns(12000000));
     }
